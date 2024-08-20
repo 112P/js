@@ -1,2 +1,2 @@
-<h1>algorithms and data structure</h1>
-<h2>using JS</h2>
+<h1>Algorithms and data structure</h1>
+<h2>Using JS, good lucky and have fun!</h2>
